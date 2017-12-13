@@ -1,0 +1,20 @@
+{
+  "name": "prometheus-exporter-webextension",
+  "version": "0.1.0",
+  "description": "Export statistics to prometheus metrics monitoring via pushgateway.",
+  "license": "MIT",
+  "private": true,
+  "author": {
+    "name": "Harshad Sharma",
+    "email": "harshad@harshadsharma.com"
+  },
+  "contributors": [
+  ],
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "generate-json-webpack-plugin": "^0.2.2",
+    "web-ext": "^2.2.2",
+    "webpack": "^3.8.1"
+  },
+  "dependencies": {}
+}
